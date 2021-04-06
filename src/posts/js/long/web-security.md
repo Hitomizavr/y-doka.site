@@ -2,9 +2,6 @@
 title: "Безопасность веб-приложений и распространённые атаки"
 name: web-security
 author: bespoyasov
-co-authors:
-designers:
-contributors:
 tags:
   - sprint-14
 summary:
@@ -12,6 +9,8 @@ summary:
   - xss
   - csrf
   - SQL-инъекции
+cover:
+  desktop: '/assets/images/posts/js/web-security/cover.png'
 ---
 
 ## Кратко

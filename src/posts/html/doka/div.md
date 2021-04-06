@@ -10,6 +10,8 @@ summary:
   - тэг
   - тег
   - див
+cover:
+  desktop: '/assets/images/posts/div/cover.png'
 ---
 
 ## Кратко

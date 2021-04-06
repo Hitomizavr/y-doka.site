@@ -12,27 +12,38 @@ body {
 .dropdown {
   position: relative; /* Относительное позиционирование */
 }
+
 .dropdown input,
 .dropdown ul {
   display: none; /* Прячем */
 }
+
 .dropdown label {
   cursor: pointer; /* Вид курсора */
-  border-bottom: 3px dashed #1a5ad7; /* Пунктир снизу */
+  border-bottom: 3px solid #1a5ad7; /* Подчеркивание снизу */
 }
+
 .dropdown ul {
   position: absolute; /* Абсолютное позиционирование */
   left: 0;
-  top: 1.4em; /* Положение меню */
+  top: 140%; /* Положение меню */
   margin: 0;
-  padding: 5px; /* Убираем отступы и поля */
+  padding: 17px; /* Отступы и поля */
+  border: 1px solid #1a5ad7;
+  box-shadow: 5px 5px 0px #1a5ad7;
+  background: #18191c; /* Цвет фона */
+  font-size: 1rem;
   list-style: none; /* Убираем маркеры списка */
-  background: #1a5ad7; /* Цвет фона */
-  font-size: 20px;
 }
+
 .dropdown a {
   color: #fff; /* Цвет ссылок */
 }
+
 .dropdown :checked ~ ul {
   display: inline-block; /* Показываем меню */
+}
+
+.dropdown li + li {
+  margin-top: 5px;
 }
