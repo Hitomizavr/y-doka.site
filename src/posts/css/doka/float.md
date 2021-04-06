@@ -1,7 +1,7 @@
 ---
 title: "float"
 name: float
-author: Lena Ryan
+author: lenaryan
 summary:
   - float
   - обтекание
@@ -72,3 +72,5 @@ summary:
   Flow-root Demo</a> на <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+{% include "authors/lenaryan/author.njk" %}
