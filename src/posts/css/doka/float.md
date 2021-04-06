@@ -15,7 +15,7 @@ summary:
 
 ## Пример
 
-<p class="codepen" data-height="352" data-theme-id="light" data-default-tab="result" data-user="lenaryan" data-slug-hash="PobvRGz" style="height: 352px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Float Demo">
+<p class="codepen" data-height="350" data-theme-id="light" data-default-tab="result" data-user="lenaryan" data-slug-hash="PobvRGz" style="height: 350px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Float Demo">
   <span>Посмотреть пен <a href="https://codepen.io/lenaryan/pen/PobvRGz">
   Float Demo</a> на <a href="https://codepen.io">CodePen</a>.</span>
 </p>
@@ -59,4 +59,16 @@ summary:
 
 Также можно не вставлять отдельный элемент в разметку, а обойтись псевдоэлементом [::after](https://y-doka.site/css/doka/after/) - этот вариант предпочтительнее.
 
-🛠 Несколько лет назад для этой же цели появилось свойство `display: flow-root`. Достаточно применить его к&nbsp;блоку, внутри которого есть элемент с&nbsp;применённым к&nbsp;нему `float` — и&nbsp;влияние `float` не&nbsp;будет распространяться вне этого блока.
+<p class="codepen" data-height="350" data-theme-id="light" data-default-tab="result" data-user="lenaryan" data-slug-hash="JjEyxra" style="height: 350px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Clearfix Demo">
+  <span>Посмотреть пен <a href="https://codepen.io/lenaryan/pen/JjEyxra">
+  Clearfix Demo</a> на <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+🛠 Несколько лет назад для этой же цели появилось свойство `display: flow-root`. Достаточно применить его к&nbsp;блоку, внутри которого есть элемент с `float` — и&nbsp;влияние `float` не&nbsp;будет распространяться вне этого блока.
+
+<p class="codepen" data-height="350" data-theme-id="light" data-default-tab="result" data-user="lenaryan" data-slug-hash="JjEyxpm" style="height: 350px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Flow-root Demo">
+  <span>Посмотреть пен <a href="https://codepen.io/lenaryan/pen/JjEyxpm">
+  Flow-root Demo</a> на <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
