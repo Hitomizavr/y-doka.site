@@ -189,5 +189,3 @@ summary:
   }
 }
 ```
-
-{% include "authors/lenaryan/author.njk" %}
