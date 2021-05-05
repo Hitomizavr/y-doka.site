@@ -38,6 +38,7 @@ summary:
   <img src="https://dummyimage.com/320x320/000/fff" alt="">
 </picture>
 ```
+
 Браузер анализирует каждый тег [`<source>`](/html/doka/source) по порядку, останавливается на первом подходящем под текущие условия и отображает картинку из атрибута `src`. Другие теги [`<source>`](/html/doka/source) не анализируются. Если тег `<picture>` не поддерживается браузером или ни один из тегов [`<source>`](/html/doka/source) не подходит под условия, то отображается картинка из тега [`<img>`](/html/doka/img).
 
 <p class="codepen" data-height="417" data-theme-id="light" data-default-tab="result" data-user="ezhkov" data-slug-hash="OJWdPqQ" style="height: 417px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="&amp;lt;picture&amp;gt;">
