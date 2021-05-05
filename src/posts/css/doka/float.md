@@ -55,7 +55,7 @@ summary:
 }
 ```
 
-Также можно не вставлять отдельный элемент в разметку, а обойтись псевдоэлементом [::after](https://y-doka.site/css/doka/after/) - этот вариант предпочтительнее.
+Также можно не вставлять отдельный элемент в разметку, а обойтись псевдоэлементом [`::after`](https://y-doka.site/css/doka/after/) — этот вариант предпочтительнее.
 
 <p class="codepen" data-height="350" data-theme-id="light" data-default-tab="result" data-user="lenaryan" data-slug-hash="JjEyxra" style="height: 350px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Clearfix Demo">
   <span>Посмотреть пен <a href="https://codepen.io/lenaryan/pen/JjEyxra">
