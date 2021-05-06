@@ -305,3 +305,17 @@ pre.language-js:before,
 pre.language-jsx:before {
   content: "JavaScript";
 }
+
+pre.language-bash {
+  .token.function:first-of-type {
+    position: relative;
+    padding-inline-start: 2em ;
+  }
+
+  .token.function:first-of-type::before {
+    content: '$';
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+}
