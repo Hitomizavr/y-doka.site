@@ -89,6 +89,7 @@ module.exports = function (config) {
   })
 
   // Pass-through files
+  config.addPassthroughCopy("_redirects")
   config.addPassthroughCopy("src/robots.txt")
   config.addPassthroughCopy("src/site.webmanifest")
   config.addPassthroughCopy("src/assets/images")
