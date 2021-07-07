@@ -1,8 +1,8 @@
 # CSS - Long
-/css/long/colors-in-web/                      https://doka.guide/css/colors-in-web/
-/css/long/css-animations/                     https://doka.guide/css/css-animations/
-/css/long/flexbox-guide/                      https://doka.guide/css/flexbox-guide/
-/css/long/grid-guide/                         https://doka.guide/css/grid-guide/
+/css/long/colors-in-web/                      https://doka.guide/css/web-colors
+/css/long/css-animations/                     https://doka.guide/css/animation
+/css/long/flexbox-guide/                      https://doka.guide/css/flexbox-guide
+/css/long/grid-guide/                         https://doka.guide/css/grid-guide
 # CSS - Doka
 /css/doka/active/                             https://doka.guide/css/active
 /css/doka/after/                              https://doka.guide/css/after
@@ -30,7 +30,7 @@
 /css/doka/column-row-gap/                     https://doka.guide/css/column-row-gap
 /css/doka/combined-selectors/                 https://doka.guide/css/combined-selectors
 /css/doka/content/                            https://doka.guide/css/content
-/css/doka/css-comments/                       https://doka.guide/css/css-comments
+/css/doka/css-comments/                       https://doka.guide/css/comments
 /css/doka/css-rule/                           https://doka.guide/css/css-rule
 /css/doka/cursor/                             https://doka.guide/css/cursor
 /css/doka/display/                            https://doka.guide/css/display
@@ -88,7 +88,7 @@
 /css/doka/place-self/                         https://doka.guide/css/place-self
 /css/doka/placeholder/                        https://doka.guide/css/placeholder
 /css/doka/placeholder-shown/                  https://doka.guide/css/placeholder-shown
-/css/doka/pseudo-classes/                     https://doka.guide/css/pseudo-classes
+/css/doka/pseudo-classes/                     https://doka.guide/css/pseudoclasses
 /css/doka/pseudoelements/                     https://doka.guide/css/pseudoelements
 /css/doka/quotes/                             https://doka.guide/css/quotes
 /css/doka/rem-em/                             https://doka.guide/css/rem-em
@@ -139,7 +139,7 @@
 /html/doka/header/                            https://doka.guide/html/header/
 /html/doka/hidden/                            https://doka.guide/html/hidden/
 /html/doka/html/                              https://doka.guide/html/html/
-/html/doka/html-comments/                     https://doka.guide/html/html-comments/
+/html/doka/html-comments/                     https://doka.guide/html/comments/
 /html/doka/iframe/                            https://doka.guide/html/iframe/
 /html/doka/img/                               https://doka.guide/html/img/
 /html/doka/input/                             https://doka.guide/html/input/
@@ -248,7 +248,7 @@
 /js/doka/promise-catch/                       https://doka.guide/js/promise-catch/
 /js/doka/promise-finally/                     https://doka.guide/js/promise-finally/
 /js/doka/promise-then/                        https://doka.guide/js/promise-then/
-/js/doka/promt/                               https://doka.guide/js/promt/
+/js/doka/promt/                               https://doka.guide/js/prompt/
 /js/doka/query-selector/                      https://doka.guide/js/query-selector/
 /js/doka/query-selector-all/                  https://doka.guide/js/query-selector-all/
 /js/doka/return/                              https://doka.guide/js/return/
